@@ -1,0 +1,339 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="xJjAE-cmNZuZ5bcY0-MI">
+        <mxGraphModel dx="1188" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-1" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#f8f9fa;strokeColor=#d6d6d6;fontColor=#333333;fontStyle=1;fontSize=18;spacingTop=10;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="170" width="1050" height="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-27" value="Immediate/Offset" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#2980b9;labelBackgroundColor=none;horizontal=1;fontColor=#2980B9;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingRight=0;spacing=4;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-7" target="jGa_ZFAxgoYGkfpewJrX-11" edge="1">
+                    <mxGeometry x="0.4706" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="620" y="170"/>
+                            <mxPoint x="620" y="390"/>
+                        </Array>
+                        <mxPoint x="520" y="190" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-33" value="Instruction" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#2980b9;labelBackgroundColor=none;horizontal=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontColor=#2980B9;spacing=4;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-4" target="jGa_ZFAxgoYGkfpewJrX-7" edge="1">
+                    <mxGeometry x="-0.1111" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="380" y="500"/>
+                            <mxPoint x="380" y="170"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#2980b9;labelBackgroundColor=#ffffff;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-9" target="jGa_ZFAxgoYGkfpewJrX-10" edge="1">
+                    <mxGeometry x="0.4583" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="900" y="640"/>
+                            <mxPoint x="900" y="390"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-2" value="Memory" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;fontStyle=1;fontSize=14;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="30" y="220" width="140" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-3" value="AR" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="260" y="240" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-4" value="DR" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="260" y="480" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-5" value="PC" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="740" y="150" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-7" value="IR" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="460" y="150" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-9" value="Accumulator" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1;fontSize=14;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="570" y="620" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-12" value="Status Flags" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;fontStyle=1;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="790" y="500" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-6" value="MUX_AR" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#000000;fontStyle=1;rounded=1;arcSize=15;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="440" y="230" width="120" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-11" value="MUX_ALU_B" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#000000;fontStyle=1;rounded=1;arcSize=20;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="460" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-10" value="MUX_ALU_A" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#000000;fontStyle=1;rounded=1;arcSize=20;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="720" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-13" value="Control Unit" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;fontStyle=1;fontSize=14;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="385" y="30" width="445" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#27ae60;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-3" target="jGa_ZFAxgoYGkfpewJrX-2" edge="1">
+                    <mxGeometry x="-0.1111" y="10" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="220" y="260"/>
+                            <mxPoint x="220" y="260"/>
+                        </Array>
+                        <mxPoint x="170" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-15" value="Data Read" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#2980b9;fontColor=#2980B9;labelBackgroundColor=none;verticalAlign=bottom;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-2" target="jGa_ZFAxgoYGkfpewJrX-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="210" y="490"/>
+                            <mxPoint x="210" y="490"/>
+                        </Array>
+                        <mxPoint x="170" y="490" as="sourcePoint"/>
+                        <mxPoint x="260" y="490" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-16" value="Data Write" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#2980b9;fontColor=#2980B9;labelBackgroundColor=none;verticalAlign=top;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-4" target="jGa_ZFAxgoYGkfpewJrX-2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="230" y="510"/>
+                            <mxPoint x="230" y="510"/>
+                        </Array>
+                        <mxPoint x="260" y="510" as="sourcePoint"/>
+                        <mxPoint x="170" y="510" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#27ae60;jumpStyle=arc;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-6" target="jGa_ZFAxgoYGkfpewJrX-3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="420" y="260"/>
+                            <mxPoint x="420" y="260"/>
+                        </Array>
+                        <mxPoint x="440" y="260" as="sourcePoint"/>
+                        <mxPoint x="340" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#27ae60;labelBackgroundColor=#ffffff;jumpStyle=arc;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-5" target="jGa_ZFAxgoYGkfpewJrX-6" edge="1">
+                    <mxGeometry x="-0.0714" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="680" y="170"/>
+                            <mxPoint x="680" y="250"/>
+                        </Array>
+                        <mxPoint x="560" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-18" value="Absolute address" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#27ae60;labelBackgroundColor=none;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontColor=#27AE60;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-7" target="jGa_ZFAxgoYGkfpewJrX-6" edge="1">
+                    <mxGeometry y="10" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-19" value="Relative address" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#27ae60;labelBackgroundColor=none;horizontal=1;entryX=1.006;entryY=0.71;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.814;exitY=0.877;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#27AE60;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;jumpStyle=arc;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-8" edge="1">
+                    <mxGeometry x="0.6997" y="-2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="708" y="550"/>
+                            <mxPoint x="939" y="550"/>
+                            <mxPoint x="939" y="302"/>
+                        </Array>
+                        <mxPoint x="720" y="540" as="sourcePoint"/>
+                        <mxPoint x="560.01" y="301.88" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-20" value="Accumulator address" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#27ae60;labelBackgroundColor=none;horizontal=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontColor=#27AE60;jumpStyle=arc;" parent="jGa_ZFAxgoYGkfpewJrX-1" edge="1">
+                    <mxGeometry x="0.74" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="960" y="650"/>
+                            <mxPoint x="960" y="280"/>
+                            <mxPoint x="560" y="280"/>
+                        </Array>
+                        <mxPoint x="730" y="650" as="sourcePoint"/>
+                        <mxPoint x="560" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-21" value="Indirect address" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#27ae60;labelBackgroundColor=none;verticalAlign=middle;horizontal=1;labelPosition=left;verticalLabelPosition=middle;align=right;fontColor=#27AE60;spacing=4;jumpStyle=arc;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-4" target="jGa_ZFAxgoYGkfpewJrX-6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="360" y="480"/>
+                            <mxPoint x="360" y="290"/>
+                        </Array>
+                        <mxPoint x="440" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#2980b9;labelBackgroundColor=none;horizontal=0;fontColor=default;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-4" target="jGa_ZFAxgoYGkfpewJrX-11" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="380" y="500"/>
+                            <mxPoint x="380" y="390"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#2980b9;labelBackgroundColor=#ffffff;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-5" target="jGa_ZFAxgoYGkfpewJrX-10" edge="1">
+                    <mxGeometry x="-0.4118" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="780" y="320"/>
+                            <mxPoint x="780" y="320"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#2980b9;labelBackgroundColor=#ffffff;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-11" target="jGa_ZFAxgoYGkfpewJrX-8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="520" y="450"/>
+                            <mxPoint x="610" y="450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#2980b9;labelBackgroundColor=#ffffff;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-10" target="jGa_ZFAxgoYGkfpewJrX-8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="780" y="450"/>
+                            <mxPoint x="690" y="450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#2980b9;labelBackgroundColor=#ffffff;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-8" target="jGa_ZFAxgoYGkfpewJrX-9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#27ae60;labelBackgroundColor=#ffffff;horizontal=0;jumpStyle=arc;" parent="jGa_ZFAxgoYGkfpewJrX-1" target="jGa_ZFAxgoYGkfpewJrX-5" edge="1">
+                    <mxGeometry x="0.486" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="690" y="560"/>
+                            <mxPoint x="980" y="560"/>
+                            <mxPoint x="980" y="170"/>
+                        </Array>
+                        <mxPoint x="690" y="560" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#27AE60;labelBackgroundColor=#ffffff;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-8" target="jGa_ZFAxgoYGkfpewJrX-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#2980b9;labelBackgroundColor=#ffffff;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-9" target="jGa_ZFAxgoYGkfpewJrX-4" edge="1">
+                    <mxGeometry x="-0.3333" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="300" y="640"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-34" value="Opcode" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#c0392b;labelBackgroundColor=none;fontColor=#C0392B;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-7" target="jGa_ZFAxgoYGkfpewJrX-13" edge="1">
+                    <mxGeometry x="0.0095" y="-30" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="500" y="130"/>
+                            <mxPoint x="500" y="130"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-35" value="Branch&#xa;conditions" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#c0392b;labelBackgroundColor=none;fontColor=#C0392B;labelBorderColor=none;spacing=2;horizontal=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;spacingTop=0;spacingLeft=0;jumpStyle=arc;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-12" target="jGa_ZFAxgoYGkfpewJrX-13" edge="1">
+                    <mxGeometry x="0.6327" y="-30" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="880" y="60"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jGa_ZFAxgoYGkfpewJrX-8" value="ALU" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;fontStyle=1;fontSize=16;shape=hexagon;" parent="jGa_ZFAxgoYGkfpewJrX-1" vertex="1">
+                    <mxGeometry x="570" y="480" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="ctrl_mem" value="Memory Controller" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;strokeWidth=2;strokeColor=#c0392b;fontColor=#c0392b;fontSize=11;labelBackgroundColor=none;" parent="jGa_ZFAxgoYGkfpewJrX-1" edge="1">
+                    <mxGeometry x="-1" y="-13" relative="1" as="geometry">
+                        <mxPoint x="13" y="-13" as="offset"/>
+                        <mxPoint x="100" y="163" as="sourcePoint"/>
+                        <mxPoint x="100" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ctrl_ar" value="AR Latch" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;strokeWidth=2;strokeColor=#c0392b;fontColor=#c0392b;fontSize=11;labelBackgroundColor=none;" parent="jGa_ZFAxgoYGkfpewJrX-1" edge="1">
+                    <mxGeometry x="-1" y="-10" relative="1" as="geometry">
+                        <mxPoint x="10" y="-10" as="offset"/>
+                        <mxPoint x="300" y="210" as="sourcePoint"/>
+                        <mxPoint x="300" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ctrl_dr" value="DR Latch" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;strokeWidth=2;strokeColor=#c0392b;fontColor=#c0392b;fontSize=11;labelBackgroundColor=none;" parent="jGa_ZFAxgoYGkfpewJrX-1" edge="1">
+                    <mxGeometry x="-1" y="-10" relative="1" as="geometry">
+                        <mxPoint x="10" y="-10" as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="300" y="450"/>
+                            <mxPoint x="300" y="450"/>
+                        </Array>
+                        <mxPoint x="300" y="450" as="sourcePoint"/>
+                        <mxPoint x="300" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ctrl_pc" value="PC Latch" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;strokeWidth=2;strokeColor=#c0392b;fontColor=#c0392b;fontSize=11;labelBackgroundColor=none;exitX=0.886;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-13" edge="1">
+                    <mxGeometry x="0.0248" y="30" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <mxPoint x="780" y="111" as="sourcePoint"/>
+                        <mxPoint x="780" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ctrl_ir" value="IR Latch" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;strokeWidth=2;strokeColor=#c0392b;fontColor=#c0392b;fontSize=11;labelBackgroundColor=none;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.046;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;" parent="jGa_ZFAxgoYGkfpewJrX-1" source="jGa_ZFAxgoYGkfpewJrX-13" target="jGa_ZFAxgoYGkfpewJrX-7" edge="1">
+                    <mxGeometry x="-0.2976" y="-25" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="406" y="150"/>
+                        </Array>
+                        <mxPoint x="370" y="150" as="sourcePoint"/>
+                        <mxPoint x="460" y="170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ctrl_acc" value="Acc Latch" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;strokeWidth=2;strokeColor=#c0392b;fontColor=#c0392b;fontSize=11;labelBackgroundColor=none;" parent="jGa_ZFAxgoYGkfpewJrX-1" edge="1">
+                    <mxGeometry x="-1" y="-10" relative="1" as="geometry">
+                        <mxPoint x="10" y="-10" as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="620" y="600"/>
+                            <mxPoint x="620" y="600"/>
+                        </Array>
+                        <mxPoint x="620" y="590" as="sourcePoint"/>
+                        <mxPoint x="620" y="620" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ctrl_flags" value="SF Latch" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;strokeWidth=2;strokeColor=#c0392b;fontColor=#c0392b;fontSize=11;labelBackgroundColor=none;" parent="jGa_ZFAxgoYGkfpewJrX-1" edge="1">
+                    <mxGeometry x="-1" y="-10" relative="1" as="geometry">
+                        <mxPoint x="10" y="-10" as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="840" y="470"/>
+                            <mxPoint x="840" y="470"/>
+                        </Array>
+                        <mxPoint x="840" y="460" as="sourcePoint"/>
+                        <mxPoint x="840" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ctrl_mux_ar" value="Sel" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;strokeWidth=2;strokeColor=#c0392b;fontColor=#c0392b;fontSize=11;labelBackgroundColor=none;entryX=-0.004;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;verticalAlign=bottom;" parent="jGa_ZFAxgoYGkfpewJrX-1" target="jGa_ZFAxgoYGkfpewJrX-6" edge="1">
+                    <mxGeometry x="-0.4992" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <mxPoint x="400" y="246" as="sourcePoint"/>
+                        <mxPoint x="500" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ctrl_mux_alub" value="Sel" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;strokeWidth=2;strokeColor=#c0392b;fontColor=#c0392b;fontSize=11;labelBackgroundColor=none;entryX=0;entryY=0.25;entryDx=0;entryDy=0;verticalAlign=bottom;" parent="jGa_ZFAxgoYGkfpewJrX-1" target="jGa_ZFAxgoYGkfpewJrX-11" edge="1">
+                    <mxGeometry x="-0.6667" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="430" y="375"/>
+                        </Array>
+                        <mxPoint x="400" y="375" as="sourcePoint"/>
+                        <mxPoint x="520" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ctrl_mux_alua" value="Sel" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;strokeWidth=2;strokeColor=#c0392b;fontColor=#c0392b;fontSize=11;labelBackgroundColor=none;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacing=4;" parent="jGa_ZFAxgoYGkfpewJrX-1" edge="1">
+                    <mxGeometry x="-0.2121" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="740" y="330"/>
+                            <mxPoint x="740" y="330"/>
+                        </Array>
+                        <mxPoint x="740" y="333" as="sourcePoint"/>
+                        <mxPoint x="740" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ctrl_alu" value="Op" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;strokeWidth=2;strokeColor=#c0392b;fontColor=#c0392b;fontSize=11;labelBackgroundColor=none;" parent="jGa_ZFAxgoYGkfpewJrX-1" edge="1">
+                    <mxGeometry x="-1" y="-10" relative="1" as="geometry">
+                        <mxPoint x="-10" y="-10" as="offset"/>
+                        <mxPoint x="540" y="520" as="sourcePoint"/>
+                        <mxPoint x="570" y="520" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
